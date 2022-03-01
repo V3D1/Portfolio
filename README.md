@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="kick-it.pl" width="22px" src="<img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-globe-contact-flatart-icons-flat-flatarticons.png" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-globe-contact-flatart-icons-flat-flatarticons.png" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />][linkedin]
 [<img align="left" alt="Maciej Kick" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][instagram]
 
